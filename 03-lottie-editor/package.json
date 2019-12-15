@@ -3,7 +3,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "diff": "3.4.0",
+    "diff": "3.5.0",
     "isomorphic-fetch": "2.2.1",
     "log-with-style": "0.3.0",
     "lottie-web": "5.0.6",
